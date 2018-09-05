@@ -22,7 +22,6 @@ A Discord music bot with a clean interface, and that is easy to set up and run y
 * Supports many online radio/streams
 * Supports local files
 * Playlist support (both web/youtube, and local)
-
 # Setup
 Please see the [Setup Page](https://github.com/jagrosh/MusicBot/wiki/Setup) in the wiki to run this bot yourself!
 
