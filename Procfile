@@ -1,2 +1,2 @@
 worker: cd src/main/java/com/jagrosh/jmusicbot/
-worker: node bot.js
+worker: java -jar JMusicBot-0.1.3-Linux.jar
